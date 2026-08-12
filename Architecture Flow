@@ -1,0 +1,7 @@
+
+flowchart LR
+    A[React client] --> B[Node API]
+    B --> C[Search layer]
+    C --> D[MongoDB]
+    E[GitHub Actions] --> F[Test and deploy]
+
