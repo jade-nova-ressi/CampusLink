@@ -1,0 +1,9 @@
+
+No search results: verify indexes, field names, seed data, and query normalization.
+
+Database connection failure: check the MongoDB URI and network access without exposing credentials.
+
+CORS error: allow only the documented client origin.
+
+CI failure: match local Node version to the workflow matrix.
+
