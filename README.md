@@ -1,1 +1,1 @@
-# CampusLink
+CampusLink is a full-stack event-discovery platform designed to help students find and explore activities happening across their campus. Built with React, Node.js, and MongoDB, the application centralizes event information and allows users to search by keywords, categories, or other relevant details. The project highlights Jade's skills in responsive frontend development, backend API design, database search optimization, full-stack integration, and continuous delivery through GitHub Actions.
