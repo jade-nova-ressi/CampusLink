@@ -1,0 +1,9 @@
+
+git clone https://github.com/jadenyangaresi/campuslink.git
+cd campuslink
+npm install
+cp .env.example .env
+npm run dev
+
+If the client and server are separate, replace the commands with the verified workspace-specific steps.
+
